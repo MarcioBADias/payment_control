@@ -1,10 +1,8 @@
-[data-js="root"] {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
-
-h1{
-  color: #006eff;
+* {
+  background-color: #333;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: 'poppins', Sans-Serif;
+  margin: 0;
+  padding: 0;
 }
